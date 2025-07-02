@@ -1,2 +1,5 @@
 #+title: Hello!
 Cehho !
+
+Hi I'm Tatz (Tatsuji) Takahashi interested in computational cognitive science.
+I am interested in how humans, animals, and even molecules that exist, act and observe in the world and continue to interact with both the intrinsic and extrinsic aspects of perception, as well as further the external world (external of ontological and epistemic senses) itself.
